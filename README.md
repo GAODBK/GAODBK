@@ -6,11 +6,6 @@
 > 😄 Pronouns: ...
 > ⚡ Fun fact: ...
 
-<br><br>
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAODBK)
-<br><br>
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAODBK&show_icons=true&theme=radical)
-
 ![]([assets/Bottom_up.svg](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)
 
 <!--   my-icons -->
@@ -27,29 +22,12 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
-
-|Property|Data|
-|Language / IDE| Dart JAVA HTML|
-|CI / CD | Markdown github Git|
-|[![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb) |
-|Database|  |
-|OS|  |
-|Tools & Platform|  |
-Machine Learning / Deep Learning frameworks|  |
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) 
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
@@ -120,16 +98,6 @@ graph TD;
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/BEPb/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
-
-
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
